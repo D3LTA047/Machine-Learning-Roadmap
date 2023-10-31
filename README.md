@@ -1,4 +1,7 @@
-# In Machine Learning, we use data and algorithms to build intelligent systems. In the next ten years, you will explore many new high-paying jobs that require you to know about Machine Learning. So the time you will spend today learning Machine Learning will never go waste. So, if you are looking for a complete roadmap you can follow for learning Machine Learning, this article is for you. In this article, I will take you through a Machine Learning Roadmap with all the learning resources you can follow to be an expert in Machine Learning.
+#Machine Learning Roadmap
+
+
+In Machine Learning, we use data and algorithms to build intelligent systems. In the next ten years, you will explore many new high-paying jobs that require you to know about Machine Learning. So the time you will spend today learning Machine Learning will never go waste. So, if you are looking for a complete roadmap you can follow for learning Machine Learning, this article is for you. In this article, I will take you through a Machine Learning Roadmap with all the learning resources you can follow to be an expert in Machine Learning.
 
 
 Machine Learning Roadmap
